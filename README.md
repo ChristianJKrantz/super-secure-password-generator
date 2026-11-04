@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Super Secure Password Generator</h1>
+<h1 align="center">Super Secure Password Generator</h1>
 
 <p align="center">Generate a strong random password from the length and character types you choose.</p>
 
@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
 </p>
 
-<p align="center"><img src="docs/screenshot.png" alt="Password Generator showing a freshly generated 20-character password" width="850"></p>
+<p align="center"><a href="https://christiankrantz11.github.io/super-secure-password-generator/"><strong>Live Demo</strong></a></p>
+
+<p align="center"><img src="docs/screenshot.png" alt="Password Generator with a length slider, character-type checkboxes and a generated 24-character password" width="850"></p>
 
 ## Features
 
@@ -47,4 +49,4 @@ No build step is needed.
 
 ## Author
 
-[ChristianKrantz11](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [GitHub](https://github.com/ChristianKrantz11)
